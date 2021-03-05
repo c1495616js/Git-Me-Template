@@ -16,6 +16,13 @@ There is no template for making a PR on the GitHub. So I want to make a crome ex
 - Click `clean` to clean the inputs.
 - No need to worry about the data lost, as it's all saved in `localStorage`.
 
+### Usage
+
+- download the `git-me-template.zip` file and unzip it.
+- Follow this [link](https://developer.chrome.com/docs/extensions/mv3/getstarted/#manifest) to install the extension on your chrome.
+
+![image](https://user-images.githubusercontent.com/31360789/110181495-cc513900-7dc0-11eb-9dd1-2b3ae7549a20.png)
+
 ### Installing
 
 - pull the repo
@@ -29,7 +36,7 @@ There is no template for making a PR on the GitHub. So I want to make a crome ex
 - `npm start` will generate a `dev` folder.
 - select the `dev` folder.
 
-#### If you just want to use
+#### If you want to build
 
 - `npm run build`
 - select the `build` folder
