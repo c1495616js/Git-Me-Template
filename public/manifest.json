@@ -1,11 +1,11 @@
 {
   "manifest_version": 2,
   "version": "0.0.1",
-  "short_name": "React App",
-  "name": "Create React App Sample",
-  "description": "Sample application showing how to create an extension with Create React App",
+  "short_name": "Git Me Template",
+  "name": "Git Me Template",
+  "description": "Create a template for making a PR on Github",
   "browser_action": {
-    "default_title": "CRE",
+    "default_title": "GMT",
     "default_popup": "popup.html"
   },
   "background": {

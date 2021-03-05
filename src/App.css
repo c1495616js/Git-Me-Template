@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+  display: flex;
 }
 
 .App-logo {
@@ -14,9 +15,9 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #fff;
   min-height: 150px;
-  min-width: 150px;
+  min-width: 300px;
   padding: 30px;
   display: flex;
   flex-direction: column;
@@ -24,6 +25,14 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.WAMuiChipInput-root-1 + .WAMuiChipInput-root-1 {
+  margin-top: 15px;
+}
+
+.btn {
+  margin-top: 15px !important;
 }
 
 .App-link {
@@ -37,4 +46,21 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.body {
+  background-color: #282c34;
+  color: white;
+  min-width: 350px;
+  display: flex;
+  justify-content: center;
+  overflow: auto;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: flext-start;
+  text-align: left;
+  max-height: 500px;
 }
