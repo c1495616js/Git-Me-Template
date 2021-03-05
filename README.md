@@ -20,11 +20,19 @@ There is no template for making a PR on the GitHub. So I want to make a crome ex
 
 - pull the repo
 - `npm install`
-- `npm start` will generate a `dev` folder.
+
 - Install the extension to your chrome browser.
   Following this [link](https://developer.chrome.com/docs/extensions/mv3/getstarted/#manifest)
 
-> Select the `dev` folder.
+#### If you want to develop
+
+- `npm start` will generate a `dev` folder.
+- select the `dev` folder.
+
+#### If you just want to use
+
+- `npm run build`
+- select the `build` folder
 
 ![image](https://user-images.githubusercontent.com/31360789/110181495-cc513900-7dc0-11eb-9dd1-2b3ae7549a20.png)
 
