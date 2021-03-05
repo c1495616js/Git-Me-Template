@@ -13,7 +13,7 @@ There is no template for making a PR on the GitHub. So I want to make a crome ex
 
 - Copy / Paste the jira link then it will handle for you.
 - Click `copy`, then you can paste the template to your PR.
-- Click `clear` to clean the inputs.
+- Click `clean` to clean the inputs.
 - No need to worry about the data lost, as it's all saved in `localStorage`.
 
 ### Installing
