@@ -2,8 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/31360789/110181248-3b7a5d80-7dc0-11eb-9bcc-903292f53a1a.png)
 
-![image](https://user-images.githubusercontent.com/31360789/110181293-4fbe5a80-7dc0-11eb-9c04-fe6fb03063ed.png)
-
 ## Table of Contents
 
 - [About](#about)
